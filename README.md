@@ -22,6 +22,7 @@ A curated list of ways to support Meteor Developers/packages.
 
 * [grapher](https://opencollective.com/grapher) - A data fetching layer allowing for easy relational queries.
 * [redis-oplog](https://opencollective.com/redis-oplog) - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor.
+* [meteor-up](https://opencollective.com/meteor-up) - Production Quality Meteor Deployment to Anywhere.
 
 ### Projects
 
