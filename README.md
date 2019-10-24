@@ -20,6 +20,7 @@ A curated list of ways to support Meteor Developers/packages.
 
 ### Packages
 
+* [Blaze](https://opencollective.com/blaze) - A powerful library for creating user interfaces by writing reactive HTML templates.
 * [grapher](https://opencollective.com/grapher) - A data fetching layer allowing for easy relational queries.
 * [redis-oplog](https://opencollective.com/redis-oplog) - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor.
 * [meteor-up](https://opencollective.com/meteor-up) - Production Quality Meteor Deployment to Anywhere.
