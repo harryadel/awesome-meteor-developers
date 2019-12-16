@@ -2,10 +2,9 @@
 
 A curated list of ways to support Meteor Developers/packages.
 
-- [Awesome Packages](#awesome-packages)
-    - [Developers](#developers)
-    - [Packages](#packages)
-    - [Projects](#projects)    
+- [Developers](#developers)
+- [Packages](#packages)
+- [Projects](#projects)    
 - - -
 
 
