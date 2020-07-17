@@ -12,6 +12,7 @@ A curated list of ways to support Meteor Developers/packages.
 
 ### Developers
 
+* [Aldeed](https://github.com/sponsors/aldeed) - Creator of [meteor-autoform](https://github.com/Meteor-Community-Packages/meteor-autoform) and [simpl-schema](https://github.com/aldeed/simpl-schema).
 * [Jagi](https://www.patreon.com/jagi/overview) - Maintainer of [Astronomy](https://atmospherejs.com/jagi/astronomy). 
 * [Kelly Copley](https://www.patreon.com/user?u=4866588) - The creator of [socialize](https://atmospherejs.com/socialize) packages. You can also donate using [Paypal](https://www.paypal.me/copleykj).
 * [dr-dimitru](https://www.patreon.com/dr_dimitru/overview) - The mastermind behind [Meteor files](https://github.com/VeliovGroup/Meteor-Files) and many more.
