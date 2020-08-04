@@ -21,7 +21,7 @@ A curated list of ways to support Meteor Developers/packages.
 * [William Reiske](https://github.com/sponsors/wreiske) - An avid open source contributor with contributions to Rocket.Chat, MongoDB, Meteor, wikiGDrive, and [more](https://github.com/search?q=is%3Apr+author%3Awreiske).
 * [Simon Fridlund](https://github.com/sponsors/zimme) - Active maintainer of [prettier-eslint](https://github.com/prettier/prettier-eslint)/[prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli).
 * [Radosław Miernik](https://github.com/sponsors/radekmie) - [Uniforms](https://github.com/vazco/uniforms), do I have to say more about the guy?
-* [Guillaume Chau](https://github.com/sponsors/Akryum) - Bridging the gap between Meteor and Vue with (vue-meteor)[https://github.com/meteor-vue/vue-meteor].
+* [Guillaume Chau](https://github.com/sponsors/Akryum) - Bridging the gap between Meteor and Vue with [vue-meteor](https://github.com/meteor-vue/vue-meteor).
 
 ### Packages
 
