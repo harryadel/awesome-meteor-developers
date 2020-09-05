@@ -22,6 +22,7 @@ A curated list of ways to support Meteor Developers/packages.
 * [Simon Fridlund](https://github.com/sponsors/zimme) - Active maintainer of [prettier-eslint](https://github.com/prettier/prettier-eslint)/[prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli).
 * [Radosław Miernik](https://github.com/sponsors/radekmie) - [Uniforms](https://github.com/vazco/uniforms), do I have to say more about the guy?
 * [Guillaume Chau](https://github.com/sponsors/Akryum) - Bridging the gap between Meteor and Vue with [vue-meteor](https://github.com/meteor-vue/vue-meteor).
+* [Zodern](https://github.com/sponsors/zodern) - Author of [meteor-up](https://github.com/zodern/meteor-up) and an active [contributor](https://github.com/search?q=repo%3Ameteor%2Fmeteor+author%3Azodern&type=Issues&ref=advsearch&l=&l=) to Meteor.
 
 ### Packages
 
