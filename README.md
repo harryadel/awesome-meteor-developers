@@ -31,6 +31,8 @@ A curated list of ways to support Meteor Developers/packages.
 * [redis-oplog](https://opencollective.com/redis-oplog) - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor.
 * [meteor-up](https://opencollective.com/meteor-up) - Production Quality Meteor Deployment to Anywhere.
 * [simple-schema-js](https://opencollective.com/simple-schema-js) - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects.
+* [accounts-js](https://opencollective.com/accounts-js) - Fullstack authentication and accounts-management for GraphQL and REST.
+
 
 ### Projects
 
