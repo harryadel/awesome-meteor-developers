@@ -15,7 +15,7 @@ A curated list of ways to support Meteor Developers/packages.
 * [Kelly Copley](https://github.com/sponsors/copleykj) - The creator of [socialize](https://atmospherejs.com/socialize) packages. You can also donate using [Paypal](https://www.paypal.me/copleykj) or [Patreon](https://www.patreon.com/user?u=4866588).
 * [dr-dimitru](https://www.patreon.com/dr_dimitru/overview) - The mastermind behind [Meteor files](https://github.com/VeliovGroup/Meteor-Files) and many more.
 * [Jan Dvorak](https://github.com/sponsors/StorytellerCZ) - Also known as Storyteller. Meteor Impact chair, Co-organizer of [Meteor Community Packges](https://github.com/Meteor-Community-Packages) and small time Meteor developer.
-* [Radosław Miernik](https://github.com/sponsors/radekmie) - [Uniforms](https://github.com/vazco/uniforms), do I have to say more about the guy?
+* [Radosław Miernik](https://github.com/sponsors/radekmie) - Software architect and open source group leader at [Vazco](https://github.com/vazco), maintainer of [Uniforms](https://github.com/vazco/uniforms) and many other packages.
 * [Guillaume Chau](https://github.com/sponsors/Akryum) - Bridging the gap between Meteor and Vue with [vue-meteor](https://github.com/meteor-vue/vue-meteor).
 * [Zodern](https://github.com/sponsors/zodern) - Author of [meteor-up](https://github.com/zodern/meteor-up) and an active [contributor](https://github.com/search?q=repo%3Ameteor%2Fmeteor+author%3Azodern&type=Issues&ref=advsearch&l=&l=) to Meteor.
 * [Jan Kuester](https://github.com/jankapunkt) - Current maintainer of [meteor-autoform](https://github.com/Meteor-Community-Packages/meteor-autoform) and contributor to many community packages. [Paypal](https://www.paypal.com/paypalme/kuesterjan)
