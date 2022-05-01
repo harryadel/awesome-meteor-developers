@@ -12,7 +12,7 @@ A curated list of ways to support Meteor Developers/packages.
 
 ### Developers
 
-* [Kelly Copley](https://www.patreon.com/user?u=4866588) - The creator of [socialize](https://atmospherejs.com/socialize) packages. You can also donate using [Paypal](https://www.paypal.me/copleykj).
+* [Kelly Copley](https://github.com/sponsors/copleykj) - The creator of [socialize](https://atmospherejs.com/socialize) packages. You can also donate using [Paypal](https://www.paypal.me/copleykj) or [Patreon](https://www.patreon.com/user?u=4866588).
 * [dr-dimitru](https://www.patreon.com/dr_dimitru/overview) - The mastermind behind [Meteor files](https://github.com/VeliovGroup/Meteor-Files) and many more.
 * [Jan Dvorak](https://github.com/sponsors/StorytellerCZ) - Also known as Storyteller. Meteor Impact chair, Co-organizer of [Meteor Community Packges](https://github.com/Meteor-Community-Packages) and small time Meteor developer.
 * [William Reiske](https://github.com/sponsors/wreiske) - An avid open source contributor with contributions to Rocket.Chat, MongoDB, Meteor, wikiGDrive, and [more](https://github.com/search?q=is%3Apr+author%3Awreiske).
