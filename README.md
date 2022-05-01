@@ -14,7 +14,7 @@ A curated list of ways to support Meteor Developers/packages.
 
 * [Kelly Copley](https://www.patreon.com/user?u=4866588) - The creator of [socialize](https://atmospherejs.com/socialize) packages. You can also donate using [Paypal](https://www.paypal.me/copleykj).
 * [dr-dimitru](https://www.patreon.com/dr_dimitru/overview) - The mastermind behind [Meteor files](https://github.com/VeliovGroup/Meteor-Files) and many more.
-* [Jan Dvorak](https://www.subscribestar.com/storyteller) - Also known as Storyteller. Co-organizer of [Meteor Community Packges](https://github.com/Meteor-Community-Packages) and small time Meteor developer. [PayPal US](https://paypal.me/JanDvorak) | [PayPal EU](https://paypal.me/JDvorak) | [Ko-fi](https://ko-fi.com/storyteller) | [GitHub Sponsor](https://github.com/sponsors/StorytellerCZ)
+* [Jan Dvorak](https://github.com/sponsors/StorytellerCZ) - Also known as Storyteller. Meteor Impact chair, Co-organizer of [Meteor Community Packges](https://github.com/Meteor-Community-Packages) and small time Meteor developer.
 * [William Reiske](https://github.com/sponsors/wreiske) - An avid open source contributor with contributions to Rocket.Chat, MongoDB, Meteor, wikiGDrive, and [more](https://github.com/search?q=is%3Apr+author%3Awreiske).
 * [Radosław Miernik](https://github.com/sponsors/radekmie) - [Uniforms](https://github.com/vazco/uniforms), do I have to say more about the guy?
 * [Guillaume Chau](https://github.com/sponsors/Akryum) - Bridging the gap between Meteor and Vue with [vue-meteor](https://github.com/meteor-vue/vue-meteor).
