@@ -15,7 +15,6 @@ A curated list of ways to support Meteor Developers/packages.
 * [Kelly Copley](https://github.com/sponsors/copleykj) - The creator of [socialize](https://atmospherejs.com/socialize) packages. You can also donate using [Paypal](https://www.paypal.me/copleykj) or [Patreon](https://www.patreon.com/user?u=4866588).
 * [dr-dimitru](https://www.patreon.com/dr_dimitru/overview) - The mastermind behind [Meteor files](https://github.com/VeliovGroup/Meteor-Files) and many more.
 * [Jan Dvorak](https://github.com/sponsors/StorytellerCZ) - Also known as Storyteller. Meteor Impact chair, Co-organizer of [Meteor Community Packges](https://github.com/Meteor-Community-Packages) and small time Meteor developer.
-* [William Reiske](https://github.com/sponsors/wreiske) - An avid open source contributor with contributions to Rocket.Chat, MongoDB, Meteor, wikiGDrive, and [more](https://github.com/search?q=is%3Apr+author%3Awreiske).
 * [Radosław Miernik](https://github.com/sponsors/radekmie) - [Uniforms](https://github.com/vazco/uniforms), do I have to say more about the guy?
 * [Guillaume Chau](https://github.com/sponsors/Akryum) - Bridging the gap between Meteor and Vue with [vue-meteor](https://github.com/meteor-vue/vue-meteor).
 * [Zodern](https://github.com/sponsors/zodern) - Author of [meteor-up](https://github.com/zodern/meteor-up) and an active [contributor](https://github.com/search?q=repo%3Ameteor%2Fmeteor+author%3Azodern&type=Issues&ref=advsearch&l=&l=) to Meteor.
@@ -26,6 +25,7 @@ A curated list of ways to support Meteor Developers/packages.
 * [Aldeed](https://github.com/sponsors/aldeed) - Creator of [meteor-autoform](https://github.com/Meteor-Community-Packages/meteor-autoform) and [simpl-schema](https://github.com/aldeed/simpl-schema).
 * [Jagi](https://www.patreon.com/jagi/overview) - Maintainer of [Astronomy](https://atmospherejs.com/jagi/astronomy). 
 * [Mitar](https://github.com/sponsors/mitar) - A veteran Meteor developer with interests in democratizing AI/ML through AutoML, computer security, e-democracy, deliberative democracy and many more.
+* [William Reiske](https://github.com/sponsors/wreiske) - An avid open source contributor with contributions to Rocket.Chat, MongoDB, Meteor, wikiGDrive, and [more](https://github.com/search?q=is%3Apr+author%3Awreiske).
 
 ### Packages
 
