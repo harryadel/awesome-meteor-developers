@@ -20,6 +20,7 @@ A curated list of ways to support Meteor Developers/packages.
 * [Guillaume Chau](https://github.com/sponsors/Akryum) - Bridging the gap between Meteor and Vue with [vue-meteor](https://github.com/meteor-vue/vue-meteor).
 * [Zodern](https://github.com/sponsors/zodern) - Author of [meteor-up](https://github.com/zodern/meteor-up) and an active [contributor](https://github.com/search?q=repo%3Ameteor%2Fmeteor+author%3Azodern&type=Issues&ref=advsearch&l=&l=) to Meteor.
 * [Jan Kuester](https://github.com/jankapunkt) - Current maintainer of [meteor-autoform](https://github.com/Meteor-Community-Packages/meteor-autoform) and contributor to many community packages. [Paypal](https://www.paypal.com/paypalme/kuesterjan)
+* [Leonardo Venturini](https://github.com/sponsors/leonardoventurini) - Creator of [Meteor Devtools Evolved](https://github.com/leonardoventurini/meteor-devtools-evolved).
 
 >These developers contributions to Meteor ecosystem are still valuable but for some reason they're not as active, I just wanted to draw the distincion and make it clear.  
 
