@@ -22,7 +22,7 @@ A curated list of ways to support Meteor Developers/packages.
 * [Jan Kuester](https://github.com/jankapunkt) - Current maintainer of [meteor-autoform](https://github.com/Meteor-Community-Packages/meteor-autoform) and contributor to many community packages. [Paypal](https://www.paypal.com/paypalme/kuesterjan)
 * [Leonardo Venturini](https://github.com/sponsors/leonardoventurini) - Creator of [Meteor Devtools Evolved](https://github.com/leonardoventurini/meteor-devtools-evolved).
 
->These developers contributions to Meteor ecosystem are still valuable but they're not as active, I just wanted to draw the distincion and make it clear.  
+>These developers contributions to Meteor ecosystem are still valuable but they're not as active anymore, I just wanted to draw the distincion and make it clear.  
 
 * [Aldeed](https://github.com/sponsors/aldeed) - Creator of [meteor-autoform](https://github.com/Meteor-Community-Packages/meteor-autoform) and [simpl-schema](https://github.com/aldeed/simpl-schema).
 * [Jagi](https://www.patreon.com/jagi/overview) - Maintainer of [Astronomy](https://atmospherejs.com/jagi/astronomy). 
